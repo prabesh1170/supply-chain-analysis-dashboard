@@ -20,11 +20,11 @@
 | order_quantity | Order quantity from the customer |  Number |
 | unit_Price | Price per product | Number |
 | total_cost | Total cost of the product | Number |
-| shipping_cost | Cost that takes to deliver the product | Number | 
+| shipping_cost | Cost to deliver the product | Number | 
 | delivery_time_days | Time it takes to deliver the product | Number |
 | inventory_level | Number of stock that is in the warehouse | Number |
 | order_status | Status of the order that is sent for delivery | Text |
-| profit | Profit from the products that were delivered |
+| profit | Profit from the products that were delivered | Number |
 
 
 
