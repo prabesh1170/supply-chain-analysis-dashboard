@@ -13,7 +13,6 @@
 
 
 ## PivotTable Findings — Supply Chain
-## PivotTable Findings — Supply Chain
 
 ### Delivery Performance
 - Delayed: 829 (55%)
