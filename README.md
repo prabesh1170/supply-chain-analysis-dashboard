@@ -26,6 +26,8 @@ Data was loaded into Power Query, verified for quality (no missing values, no du
 
 ## Dashboard
 - A single-page dashboard combining 5 KPI cards (Total Orders, Total Profit, Average Delivery Time, On-Time Delivery Rate, Cancellation rate) with  charts covering Delivery Performance, Average Delivery Time by transport mode, Profit by Transport Mode, and order Status by customer region
+
+  
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 
