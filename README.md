@@ -21,6 +21,13 @@ The original raw file was kept untouched in `data/raw/`, with all cleaning done 
 Data was loaded into Power Query, verified for quality (no missing values, no duplicate order IDs) Full details: [power-query/documentation.md](power-query/documentation.md)
 
 ## Analysis
+
+- Full details: [power-query/documentation.md](power-query/documentation.md)
+
+## Dashboard
+
+
+## Key Insights
 - Delivery Performance: The analysis shows that 55% of orders were delayed, while 27% were delivered on time and 18% had not yet been delivered.
 
 - Most and Least Profitable Transport Modes: Railway is the most profitable transport mode, whereas Road is the least profitable.
@@ -30,13 +37,6 @@ Data was loaded into Power Query, verified for quality (no missing values, no du
 - Region with the Highest Number of Delays and Cancellations: North America recorded the highest number of delays and cancellations, with 22 delays and 12 cancellations.
 
 - Chart Recommendation: The Order Status by Customer Region chart should be presented as a 100% Stacked Column Chart. This format provides a clearer comparison of the proportional distribution of order statuses across the five regions, whereas a standard stacked column chart makes proportional differences more difficult to assess.
-
-- Full details: [power-query/documentation.md](power-query/documentation.md)
-
-## Dashboard
-
-
-## Key Insights
 
 
 Full details: [documentation/business-insights.md](documentation/business-insights.md)
