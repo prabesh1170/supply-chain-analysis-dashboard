@@ -31,6 +31,8 @@ Data was loaded into Power Query, verified for quality (no missing values, no du
 
 - Chart Recommendation: The Order Status by Customer Region chart should be presented as a 100% Stacked Column Chart. This format provides a clearer comparison of the proportional distribution of order statuses across the five regions, whereas a standard stacked column chart makes proportional differences more difficult to assess.
 
+- Full details: [power-query/documentation.md](power-query/documentation.md)
+
 ## Dashboard
 
 
