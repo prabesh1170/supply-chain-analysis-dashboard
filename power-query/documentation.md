@@ -47,5 +47,5 @@
 - Differences across regions are relatively small (within a few percentage points) — no single region stands out dramatically
 
 ### Chart Design Note
-Chart 4 (Orders by Status per Region) was switched from plain Stacked Column to 100% Stacked Column for readability — comparing proportions across 5 regions was hard to read with raw counts.
+Orders by Status per Region chart was switched from plain Stacked Column to 100% Stacked Column for readability — comparing proportions across 5 regions was hard to read with raw counts.
 
