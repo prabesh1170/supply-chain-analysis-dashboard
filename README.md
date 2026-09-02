@@ -12,7 +12,7 @@ transportation modes, regions, and suppliers to identify inefficiencies and supp
 data-driven logistics decisions.
 
 ## Dataset
-- Source: Supplychain_data.csv — 1,500 orders, 24 columns
+- Source: [Kaggle](https://www.kaggle.com/) Supplychain_data.csv — 1,500 orders, 24 columns
 - Covers order/shipment/delivery dates, customers, products, suppliers, warehouses,
   transportation, cost, and profit
 
@@ -60,3 +60,16 @@ speed, and regional patterns.
 Full details: [documentation/business-insights.md](documentation/business-insights.md)
 
 ## Project Structure
+
+supplychain-analysis-dashboard/
+
+├── data/raw/ → original untouched dataset
+
+├── excel/ → working Excel file with Tables, Power Query, Pivots, Dashboard
+
+├── power-query/ → Power Query transformation documentation
+
+├── screenshots/ → dashboard screenshot
+
+└── documentation/ → data dictionary, analysis notes, business insights
+
