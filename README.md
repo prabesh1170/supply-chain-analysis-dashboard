@@ -36,7 +36,7 @@ undelivered orders from performance calculations. Full details: [power-query/doc
 
 ## Analysis
 Four PivotTables covering delivery performance, profit by transport mode, delivery time by mode,
-and order status by region. Full details: [documentation/analysis-notes.md](documentation/analysis-notes.md)
+and order status by region. Full details: [documentation/analysis-notes.md](documentation/analysis-note.md)
 
 ## Excel Formula Showcase
 Built a supplier performance summary using XLOOKUP and multi-criteria aggregation, a profit
@@ -48,7 +48,7 @@ NETWORKDAYS. Full details: [documentation/formulas-used.md](documentation/formul
 A single-page dashboard combining 5 KPI cards (Total Orders, Total Profit, Average Delivery Time,
 On-Time Delivery Rate, Cancellation Rate) with 4 charts covering delivery performance, profitability,
 speed, and regional patterns.
-![Dashboard Screenshot](screenshots/dashboard-overview.png)
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 ## Key Insights
 - 55% of orders were delayed; only 27% were on time
