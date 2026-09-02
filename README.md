@@ -7,7 +7,7 @@ and a broad range of Excel functions (lookup, conditional logic, aggregation, dy
 text, and date functions).
 
 ## Business Problem
-This project analyzes order fulfillment, delivery performance, and profitability across
+This project analyses order fulfilment, delivery performance, and profitability across
 transportation modes, regions, and suppliers to identify inefficiencies and support
 data-driven logistics decisions.
 
