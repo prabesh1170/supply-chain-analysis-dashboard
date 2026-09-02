@@ -65,11 +65,13 @@ supplychain-analysis-dashboard/
 
 ├── data/raw/ → original untouched dataset
 
-├── excel/ → working Excel file with Tables, Power Query, Pivots, Dashboard
+├── documentation/ → findings, analysis notes, business insights,  data documentation, formulas used
+
+├── excel/ → working Excel file with Tables, Power Query, Pivots, Dashboard formulas
 
 ├── power-query/ → Power Query transformation documentation
 
-├── screenshots/ → dashboard screenshot
+└── screenshots/ → dashboard screenshot
 
-└── documentation/ → data dictionary, analysis notes, business insights
+
 
