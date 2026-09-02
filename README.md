@@ -74,4 +74,18 @@ supplychain-analysis-dashboard/
 └── screenshots/ → dashboard screenshot
 
 
+## How to Use
+1. Download `excel/Supply_Chain_Analysis.xlsx`
+2. Open in Excel — go to the Dashboard sheet (first tab)
+3. Refresh Power Query (Data tab → Refresh All) to re-run transformations if needed
+
+## Skills Demonstrated
+- Excel Tables & structured references
+- Power Query: cleaning, custom columns, conditional logic, merging
+- PivotTables & PivotCharts (including 100% stacked and pie charts)
+- XLOOKUP, SUMIFS/COUNTIFS/AVERAGEIFS, IFERROR, nested IF, FILTER, TEXT functions, NETWORKDAYS
+- KPI calculation
+- Dashboard design and data-visualization integrity (zero-baseline axis correction)
+- Business insight writing
+- Git & GitHub version control
 
