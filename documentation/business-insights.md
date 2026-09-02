@@ -1,1 +1,78 @@
 
+# Business Insights
+
+### 1. Delivery Performance
+
+**Observation:**  
+**55% of orders were delayed**, while only **27% were delivered on time** and **18% had not yet been delivered**.
+
+**Possible Reason:**  
+The high proportion of delayed orders may indicate inefficiencies in transportation, fulfilment, inventory availability, or regional logistics operations.
+
+**Recommendation:**  
+Investigate the main causes of delays by **transport mode, region, supplier, and product category**. Prioritise the areas contributing most to delays and establish targeted delivery-performance KPIs.
+
+---
+
+### 2. Profitability vs. Delivery Speed Trade-off
+
+**Observation:**  
+**Rail** generated the highest profit at approximately **$1.97M**, but had a relatively slow average delivery time of **12 days**. **Air** was the fastest mode at approximately **6 days**, but generated the lowest profit at **$1.79M**.
+
+**Possible Reason:**  
+Different transportation modes have different cost structures. Faster transportation may require higher operating costs, while slower modes such as rail may provide better margins.
+
+**Recommendation:**  
+Avoid selecting transport modes based solely on delivery speed. Use a **cost-versus-service approach**, selecting faster modes where customer urgency justifies the additional cost while using more profitable modes where delivery time is less critical.
+
+---
+
+### 3. Regional Performance Patterns
+
+**Observation:**  
+**Asia had the highest delay rate at approximately 7%**, while **Europe recorded the highest cancellation rate at approximately 4.3%**.
+
+**Possible Reason:**  
+Regional differences may be influenced by transportation networks, fulfilment processes, customer demand, supplier locations, or local operational constraints.
+
+**Recommendation:**  
+Conduct a deeper regional analysis to identify the underlying causes. Focus on **Asia for delay reduction** and **Europe for cancellation reduction**, rather than applying the same solution across all regions.
+
+---
+
+### 4. Data Quality Finding
+
+**Observation:**  
+The **`Delivery Time Days`** field appears to measure the period from **shipment to delivery**, rather than the complete **order-to-delivery** cycle suggested by its name.
+
+**Possible Reason:**  
+The field may have been incorrectly labelled or defined during data collection or preparation.
+
+**Recommendation:**  
+Validate the field definition before using it for business decisions. If possible, create a separate **Order-to-Delivery Days** measure so that customer-facing delivery performance can be measured accurately.
+
+---
+
+### 5. Supplier Performance
+
+**Observation:**  
+**Supplier S316 generated the highest profit**, while **Supplier S838 generated the lowest profit**.
+
+**Possible Reason:**  
+The difference may be influenced by factors such as **order volume, product mix, pricing, transportation costs, or supplier margins**.
+
+**Recommendation:**  
+Investigate supplier performance using additional metrics such as **profit per order, order volume, delivery performance, and transportation cost**. This will help determine whether S838's lower profitability is caused by operational performance or simply a different business mix.
+
+---
+
+### 6. Calendar Days vs. Business Days
+
+**Observation:**  
+Average delivery time is **11.8 calendar days**, compared with **9.16 business days**, creating a difference of approximately **2.6 days**.
+
+**Possible Reason:**  
+The difference is largely attributable to **weekends and non-working days** being included in calendar-day calculations.
+
+**Recommendation:**  
+Use **business days for internal operational performance targets** and clearly communicate whether customer delivery expectations are based on calendar or business days. This will create more realistic targets and reduce potential confusion when evaluating delivery performance.
